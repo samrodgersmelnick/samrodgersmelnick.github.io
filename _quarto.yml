@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sam Rodgers-Melnick, MPH, MT-BC"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - experience.qmd
+      - publications.qmd
+      - presentations.qmd
+      - media.qmd
+
+format:
+  html:
+    theme: flatly
+    linkcolor: blue
+    css: styles.css
+    toc: true
+
+editor: visual
+

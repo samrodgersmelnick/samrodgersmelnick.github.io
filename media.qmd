@@ -1,0 +1,45 @@
+---
+title: "Media"
+---
+
+# Interviews
+
+{{< video https://www.youtube.com/embed/HlajrITcvB4 >}}
+
+# Press
+
+[Healio - Music therapy helps patients with sickle cell disease cope with pain](https://www.healio.com/news/hematology-oncology/20220328/music-therapy-helps-patients-with-sickle-cell-disease-cope-with-pain)
+
+[Plain Dealer - University Hospitals program uses music to teach about sickle cell](https://www.cleveland.com/healthfit/2017/10/university_hospitals_beats_pro.html)
+
+# Top Hat Black
+
+![](images/THB.png){width="6in"}
+
+[Listen to Top Hat Black on Spotify](https://open.spotify.com/artist/6is5DlI0BEsxKukHT7Dcuj)
+
+[Listen to Top Hat Black on YouTube](https://www.youtube.com/@TopHatBlack/videos)
+
+{{< video https://youtu.be/gpPsCFTXNTo >}}
+
+{{< video https://youtu.be/u9oQOO8LEKg >}}
+
+{{< video https://youtu.be/d-3ATTGOSnU >}}
+
+{{< video https://youtu.be/OYvqzFZxsBw >}}
+
+# Pan Ohio Hope Ride
+
+Since 2014, I have participated in the [Pan Ohio Hope Ride](https://secure.acsevents.org/site/TR?fr_id=104198&pg=entry), a ride across the state of Ohio from Cleveland to Cincinnati (or vice versa).The Pan Ohio Hope Ride supports many of the American Cancer Society’s essential programs, but one of the most important is Hope Lodge. Hope Lodge provides housing and support to cancer patients and their caregivers who live far away from the facility in which they are receiving treatment. [You can support my 2023 Pan Ohio Hope Ride Campaign here.](http://main.acsevents.org/goto/samrodgersmelnick)
+
+{{< video https://youtu.be/W7hp5smPisU >}}
+
+{{< video https://youtu.be/XaZKWTOQDT8 >}}
+
+{{< video https://youtu.be/PD9ABIKu6iY >}}
+
+{{< video https://youtu.be/JSFw68cpzfk >}}
+
+# Public Health
+
+{{< video https://www.youtube.com/watch?v=cTKJ_RMuJ3Q&list=PLty9vUTUMfycn-zVrXn2RshIGO_zMCe2R&index=1&t=31s >}}

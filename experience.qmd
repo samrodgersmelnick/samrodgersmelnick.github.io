@@ -1,0 +1,62 @@
+---
+title: "Skills and Experience"
+---
+
+# Skills
+
+-   Music therapist specializing in the care of adults with hematologic/oncologic conditions
+-   Data collection and management
+-   Integrative health research
+-   Electronic health record data extraction and analysis
+-   Regular expressions data extraction from clinical narratives
+-   Programming in R
+-   Music technology
+-   Percussion
+-   Guitar
+-   Public health
+-   Public speaking
+
+# Positions and Scientific Appointments
+
+|              |                                                                                      |
+|----------------|----------------------------------------------------|
+| 2021-Present | Integrative Health Research & Data Specialist, UH Connor Whole Health, Cleveland, OH |
+| 2019-2019    | Public Health Practicum Student, Case Comprehensive Cancer Center, Cleveland, OH     |
+| 2018-2021    | Music Therapist, UH Connor Whole Health, Cleveland, OH                               |
+| 2013-2017    | Music Therapist, UH Seidman Cancer Center, Cleveland, OH                             |
+| 2012-2013    | Music Therapy Intern, UH Cleveland Medical Center, Cleveland, OH                     |
+
+# Other Experience and Professional Membership
+
+|              |                                                                                          |
+|----------------|---------------------------------------------------|
+| 2022-Present | Member, Society for Integrative Oncology                                                 |
+| 2021-2022    | Music Therapy Consultant, Sound Health Network                                           |
+| 2017-Present | Member, Academic Consortium for Integrative Medicine & Health                            |
+| 2013-2016    | Music Therapist, Rock & Roll Hall of Fame and Museum Toddler Rock Program, Cleveland, OH |
+| 2012         | Program Staff, The Pittsburgh Project, Pittsburgh, PA                                    |
+| 2009-Present | Member, American Music Therapy Association                                               |
+
+# Trainings and Certifications
+
+|              |                                                                                                  |
+|----------------|---------------------------------------------------|
+| 2021         | Social and Behavioral Best Practices for Clinical Research, CITI                                 |
+| 2018         | The Clinical Practice of Cognitive Therapy, Cleveland, OH                                        |
+| 2013         | Human Subjects Protection Basic Training, Collaborative Institutional Training Initiative (CITI) |
+| 2013         | Neurologic Music Therapy Training, Fort Collins, CO                                              |
+| 2013-Present | Music Therapist-Board Certified (#10800), Certification Board for Music Therapists               |
+| 2013         | Remo HealthRHYTHMS Advanced Training, Fort Lauderdale, FL                                        |
+| 2011         | Remo HealthRHYTHMS Basic Training, Danbury, CT                                                   |
+
+# Honors
+
+|           |                                                                                               |
+|-----------------|--------------------------------------------------------|
+| 2018      | Sally Ann Shipley Award for Commitment to Quality of Care, UH Cleveland Medical Center        |
+| 2015      | Dedication Award, Kincaid's Kindred Spirits, Inc (Community Sickle Cell Disease Organization) |
+| 2012      | Robert Egan Award for Academic Excellence, Duquesne University                                |
+| 2012      | Presser Scholarship (High Academic and Musical Accomplishment), Duquesne University           |
+| 2012      | Outstanding Music Therapy Student Award, Duquesne University                                  |
+| 2011      | Christine K. Stevens Development Scholarship, American Music Therapy Association              |
+| 2008-2012 | Dean's List, Duquesne University                                                              |
