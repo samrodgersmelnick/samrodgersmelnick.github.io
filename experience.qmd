@@ -16,10 +16,26 @@ title: "Skills and Experience"
 -   Public health
 -   Public speaking
 
+# Education
+
++--------------+-----------------------------------------------------------+
+| 2022-Present | PhD in Clinical Translational Science                     |
+|              |                                                           |
+|              | Case Western Reserve University, Cleveland, OH            |
++--------------+-----------------------------------------------------------+
+| 2017-2022    | Master of Public Health                                   |
+|              |                                                           |
+|              | Case Western Reserve University, Cleveland, OH            |
++--------------+-----------------------------------------------------------+
+| 2008-2012    | Bachelor of Science in Music Therapy, Minor in Psychology |
+|              |                                                           |
+|              | Duquesne University, Pittsburgh, PA                       |
++--------------+-----------------------------------------------------------+
+
 # Positions and Scientific Appointments
 
 |              |                                                                                      |
-|----------------|----------------------------------------------------|
+|--------------|--------------------------------------------------------------------------------------|
 | 2021-Present | Integrative Health Research & Data Specialist, UH Connor Whole Health, Cleveland, OH |
 | 2019-2019    | Public Health Practicum Student, Case Comprehensive Cancer Center, Cleveland, OH     |
 | 2018-2021    | Music Therapist, UH Connor Whole Health, Cleveland, OH                               |
@@ -29,7 +45,7 @@ title: "Skills and Experience"
 # Other Experience and Professional Membership
 
 |              |                                                                                          |
-|----------------|---------------------------------------------------|
+|--------------|------------------------------------------------------------------------------------------|
 | 2022-Present | Member, Society for Integrative Oncology                                                 |
 | 2021-2022    | Music Therapy Consultant, Sound Health Network                                           |
 | 2017-Present | Member, Academic Consortium for Integrative Medicine & Health                            |
@@ -40,7 +56,7 @@ title: "Skills and Experience"
 # Trainings and Certifications
 
 |              |                                                                                                  |
-|----------------|---------------------------------------------------|
+|--------------|--------------------------------------------------------------------------------------------------|
 | 2021         | Social and Behavioral Best Practices for Clinical Research, CITI                                 |
 | 2018         | The Clinical Practice of Cognitive Therapy, Cleveland, OH                                        |
 | 2013         | Human Subjects Protection Basic Training, Collaborative Institutional Training Initiative (CITI) |
@@ -52,7 +68,7 @@ title: "Skills and Experience"
 # Honors
 
 |           |                                                                                               |
-|-----------------|--------------------------------------------------------|
+|-----------|-----------------------------------------------------------------------------------------------|
 | 2018      | Sally Ann Shipley Award for Commitment to Quality of Care, UH Cleveland Medical Center        |
 | 2015      | Dedication Award, Kincaid's Kindred Spirits, Inc (Community Sickle Cell Disease Organization) |
 | 2012      | Robert Egan Award for Academic Excellence, Duquesne University                                |

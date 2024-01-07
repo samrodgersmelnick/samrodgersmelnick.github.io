@@ -6,17 +6,18 @@ title: "Publications"
 
 [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/samuel.rodgers-melnick.1/bibliography/public/)
 
-1.  **Rodgers-Melnick SN**, Rivard RL, Block S, Dusek JA. Effectiveness of music therapy within community hospitals: an EMMPIRE retrospective study. PAIN Reports. 2023;8(3):e1074. doi:[10.1097/pr9.0000000000001074](http://doi.org/10.1097/pr9.0000000000001074)
-2.  **Rodgers-Melnick SN**, Bartolovich M, Desai NJ, et al. Massage therapy for children, adolescents, and young adults: Clinical delivery and effectiveness in hematology and oncology. Pediatr Blood Cancer. Feb 1 2023;n/a(n/a):e30243. doi:[10.1002/pbc.30243](http://doi.org/10.1002/pbc.30243)
-3.  **Rodgers-Melnick SN**, Rivard RL, Block S, Dusek JA. Clinical Delivery and Effectiveness of Music Therapy in Hematology and Oncology: An EMMPIRE Retrospective Study. Integr Cancer Ther. Jan-Dec 2022;21(21):15347354221142538. [doi:10.1177/15347354221142538](http://doi.org/10.1177/15347354221142538)
-4.  **Rodgers-Melnick SN**, Lin L, Gam K, et al. Effects of Music Therapy on Quality of Life in Adults with Sickle Cell Disease (MUSIQOLS): A Mixed Methods Feasibility Study. J Pain Res. 2022;15:71-91. doi:[10.2147/JPR.S337390](http://doi.org/10.2147/JPR.S337390)
-5.  **Rodgers-Melnick SN**, Zanotti K, Lee RT, Webb Hooper M. Demographic and Clinical Predictors of Engaging in Tobacco Cessation Counseling at a Comprehensive Cancer Center. JCO Oncol Pract. May 2022;18(5):OP.21.00458. doi:[10.1200/OP.21.00458](http://doi.org/10.1200/OP.21.00458)
-6.  Jiang C, Larbi O, Feyes D, Wang G, Momotaz H, Li M, Daunov K, Daly B, Mazanec S, **Rodgers-Melnick SN**, et al. A survey of cancer patients, caregivers, and providers regarding familiarity, importance, and utilization of supportive and integrative oncology services. Support Care Cancer. Oct 2021;29(10):5777-5785. doi:[10.1007/s00520-021-06081-4](http://doi.org/10.1007/s00520-021-06081-4)
-7.  **Rodgers-Melnick SN,** Gam K, Debanne S, Little JA. Music Use in Adult Patients with Sickle Cell Disease: A Pilot Survey Study. Music Ther Perspect. 2021;39(1):34-41. doi:[10.1093/mtp/miaa026](http://doi.org/10.1093/mtp/miaa026)
-8.  Larbi OM, Jiang C, McLane B, Wang G, Daunov K, Hobson SM, Daly B, Mazanec SR, Feyes D, **Rodgers-Melnick SN**, et al. Interest and Willingness to Pay for Integrative Therapies of Patients With Cancer and Caregivers. JCO Oncol Pract. Nov 2021;17(11):OP.20.00471-OP.20.00471. doi:[10.1200/OP.20.00471](http://doi.org/10.1200/OP.20.00471)
-9.  **Rodgers-Melnick SN**, Webb Hooper M. Implementation of tobacco cessation services at a comprehensive cancer center: a qualitative study of oncology providers' perceptions and practices. Support Care Cancer. May 2021;29(5):2465-2474. doi:[10.1007/s00520-020-05749-7](http://doi.org/10.1007/s00520-020-05749-7)
-10. **Rodgers-Melnick SN**, Matthie N, Jenerette C, et al. The Effects of a Single Electronic Music Improvisation Session on the Pain of Adults with Sickle Cell Disease: A Mixed Methods Pilot Study. J Music Ther. Jun 7 2018;55(2):156-185. doi:[10.1093/jmt/thy004](http://doi.org/10.1093/jmt/thy004)
-11. **Rodgers-Melnick SN**, Pell TJG, Lane D, et al. The effects of music therapy on transition outcomes in adolescents and young adults with sickle cell disease. Int J Adolesc Med Health. Aug 5 2017;31(3):1-14. doi:[10.1515/ijamh-2017-0004](http://doi.org/10.1515/ijamh-2017-0004)
+1.  **Rodgers-Melnick SN,** Block S, Rivard RL, Dusek JA. Optimizing Patient-Reported Outcome Collection and Documentation in Medical Music Therapy: A Process Improvement Study (Preprint). *JMIR Hum Factors*. Jul 27 2023;10:e46528. doi:[10.2196/46528](https://humanfactors.jmir.org/2023/1/e46528/)
+2.  **Rodgers-Melnick SN**, Rivard RL, Block S, Dusek JA. Effectiveness of music therapy within community hospitals: an EMMPIRE retrospective study. PAIN Reports. 2023;8(3):e1074. doi:[10.1097/pr9.0000000000001074](http://doi.org/10.1097/pr9.0000000000001074)
+3.  **Rodgers-Melnick SN**, Bartolovich M, Desai NJ, et al. Massage therapy for children, adolescents, and young adults: Clinical delivery and effectiveness in hematology and oncology. Pediatr Blood Cancer. Feb 1 2023;n/a(n/a):e30243. doi:[10.1002/pbc.30243](http://doi.org/10.1002/pbc.30243)
+4.  **Rodgers-Melnick SN**, Rivard RL, Block S, Dusek JA. Clinical Delivery and Effectiveness of Music Therapy in Hematology and Oncology: An EMMPIRE Retrospective Study. Integr Cancer Ther. Jan-Dec 2022;21(21):15347354221142538. [doi:10.1177/15347354221142538](http://doi.org/10.1177/15347354221142538)
+5.  **Rodgers-Melnick SN**, Lin L, Gam K, et al. Effects of Music Therapy on Quality of Life in Adults with Sickle Cell Disease (MUSIQOLS): A Mixed Methods Feasibility Study. J Pain Res. 2022;15:71-91. doi:[10.2147/JPR.S337390](http://doi.org/10.2147/JPR.S337390)
+6.  **Rodgers-Melnick SN**, Zanotti K, Lee RT, Webb Hooper M. Demographic and Clinical Predictors of Engaging in Tobacco Cessation Counseling at a Comprehensive Cancer Center. JCO Oncol Pract. May 2022;18(5):OP.21.00458. doi:[10.1200/OP.21.00458](http://doi.org/10.1200/OP.21.00458)
+7.  Jiang C, Larbi O, Feyes D, Wang G, Momotaz H, Li M, Daunov K, Daly B, Mazanec S, **Rodgers-Melnick SN**, et al. A survey of cancer patients, caregivers, and providers regarding familiarity, importance, and utilization of supportive and integrative oncology services. Support Care Cancer. Oct 2021;29(10):5777-5785. doi:[10.1007/s00520-021-06081-4](http://doi.org/10.1007/s00520-021-06081-4)
+8.  **Rodgers-Melnick SN,** Gam K, Debanne S, Little JA. Music Use in Adult Patients with Sickle Cell Disease: A Pilot Survey Study. Music Ther Perspect. 2021;39(1):34-41. doi:[10.1093/mtp/miaa026](http://doi.org/10.1093/mtp/miaa026)
+9.  Larbi OM, Jiang C, McLane B, Wang G, Daunov K, Hobson SM, Daly B, Mazanec SR, Feyes D, **Rodgers-Melnick SN**, et al. Interest and Willingness to Pay for Integrative Therapies of Patients With Cancer and Caregivers. JCO Oncol Pract. Nov 2021;17(11):OP.20.00471-OP.20.00471. doi:[10.1200/OP.20.00471](http://doi.org/10.1200/OP.20.00471)
+10. **Rodgers-Melnick SN**, Webb Hooper M. Implementation of tobacco cessation services at a comprehensive cancer center: a qualitative study of oncology providers' perceptions and practices. Support Care Cancer. May 2021;29(5):2465-2474. doi:[10.1007/s00520-020-05749-7](http://doi.org/10.1007/s00520-020-05749-7)
+11. **Rodgers-Melnick SN**, Matthie N, Jenerette C, et al. The Effects of a Single Electronic Music Improvisation Session on the Pain of Adults with Sickle Cell Disease: A Mixed Methods Pilot Study. J Music Ther. Jun 7 2018;55(2):156-185. doi:[10.1093/jmt/thy004](http://doi.org/10.1093/jmt/thy004)
+12. **Rodgers-Melnick SN**, Pell TJG, Lane D, et al. The effects of music therapy on transition outcomes in adolescents and young adults with sickle cell disease. Int J Adolesc Med Health. Aug 5 2017;31(3):1-14. doi:[10.1515/ijamh-2017-0004](http://doi.org/10.1515/ijamh-2017-0004)
 
 # Peer Reviewed Articles -- In Press
 
@@ -24,9 +25,13 @@ title: "Publications"
 
 # Peer Reviewed Articles -- Under Review
 
-1.  **Rodgers-Melnick SN**, Rivard RL, Block S, Dusek JA. Effectiveness of Medical Music Therapy Practice: Integrative Research using the Electronic Health Record (EMMPIRE): Rationale, Design, and Population Characteristics. Submitted to Journal of Integrative and Complementary Medicine
-2.  **Rodgers-Melnick SN**, Block S, Rivard RL, Dusek JA. Optimizing Patient-Reported Outcome Collection and Documentation in Medical Music Therapy: An EMMPIRE Process Improvement Study. Submitted to JMIR Human Factors. [Preprint available](https://preprints.jmir.org/preprint/46528)
-3.  **Rodgers-Melnick SN**, Bradt J, Jenerette, C, Dusek JA. Music Therapy for Chronic Pain: Practical Recommendations for Future Research. Submitted to Journal of Music Therapy.
+1.  **Rodgers-Melnick SN,** Bradt J, Jenerette, C, Dusek JA. Music Therapy for Chronic Pain: Practical Recommendations for Future Research. Submitted to *Nordic Journal of Music Therapy*.
+2.  **Rodgers-Melnick SN,** Trager RJ, Love TE, Dusek JA. Engagement in Integrative and Nonpharmacologic Pain Management Modalities Among Adults with Chronic Pain. Submitted to *Journal of Pain Research.*
+3.  **Rodgers-Melnick SN**, Srinivasan R, Rivard RL, Adan F, Dusek JA. Immediate Effects of Integrative Health and Medicine Modalities Among Outpatients with Moderate-to-Severe Pain, Stress, and Anxiety. Submitted to *Global Advances in Integrative Medicine and Health.*
+4.  Segall T, **Rodgers-Melnick SN**, Surdam J, Srinivasan R, Dusek JA. Patient experience and attitudes toward electronic intake and patient-reported outcomes within an outpatient whole health center. Submitted to *Global Advances in Integrative Medicine and Health.*
+5.  Vroom D, **Rodgers-Melnick SN**, Brown T, Owusu-Ansah A, Dusek JA. Pain Screening in Sickle Cell Youth (PASSKEY). Submitted to *Pediatric Blood & Cancer.*
+6.  Trager RJ, Nichols MD, Barnett TD, **Rodgers-Melnick SN**, Song S, Love TE, Adan F, Dusek JA. Impact of Integrative Health and Medicine on Costs Associated with Adult Health System Beneficiaries with Musculoskeletal Conditions: A Retrospective Cohort Study. Submitted to *Journal of Integrative and Complementary Medicine.*
+7.  Srinivasan R, **Rodgers-Melnick SN**, Rivard RL, Kaiser C, Vincent D, Adan F, Dusek JA. Implementing Paper-Based Patient-Reported Outcome Collection within Outpatient Integrative Health and Medicine. Submitted to *PLOS ONE.***Rodgers-Melnick SN**, Rivard RL, Block S, Dusek JA. Effectiveness of Medical Music Therapy Practice: Integrative Research using the Electronic Health Record (EMMPIRE): Rationale, Design, and Population Characteristics. Submitted to Journal of Integrative and Complementary Medicine
 
 # Abstracts
 
@@ -34,4 +39,5 @@ title: "Publications"
 
 # Other works
 
-1.  Rodgers-Melnick SN. [The Role of Music Therapy in Sickle Cell Disease](https://www.nbna.org//Files/NBNA%20Newsletters/cs_NBNA_SUMMER_2020%2010.28.pdf). Natl Black Nurses Assoc News. Published online August 2020:33-34.
+1.  **Rodgers-Melnick SN.** Music Composition Transitioning to Music-Assisted Relaxation and Imagery with an Adult with Sickle Cell Disease and Chronic Pain. In: Heiderscheit A, Jackson NA, editors. [Clinical Decision-Making in Music Therapy](https://barcelonapublishers.com/index.php?route=product/product&product_id=415). Glen Rock, PA: Barcelona Publishers; 2023.
+2.  **Rodgers-Melnick SN**. [The Role of Music Therapy in Sickle Cell Disease](https://www.nbna.org//Files/NBNA%20Newsletters/cs_NBNA_SUMMER_2020%2010.28.pdf). Natl Black Nurses Assoc News. Published online August 2020:33-34.
